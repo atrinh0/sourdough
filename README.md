@@ -52,6 +52,15 @@ Step | Task | Duration until next step
 7 | Stretch and fold (4 times), cover with lid | Wait 1 hour
 8 | Onto a lightly floured surface, tip out the dough, stretch and fold (4 times) and form into a ball, cover with bowl | Wait 1 hour
 9 | Dust lightly with flour, flip over, stretch and fold (4 times) and form into a ball, place ball into a lightly buttered loaf tin, cover with cling film | Straight into fridge or leave out for 1-2 hours to rise a bit more
-10 | Put baking tin into the fridge | Overnight
+10 | Put loaf tin into the fridge | Overnight
 
 ## Method (baking)
+
+Step | Task | Duration until next step
+--|--|--
+1 | Turn oven on bread baking mode at 240 degrees celcius | Until oven has reached 240
+2 | Take loaf tin out of the fridge, remove cling film, score straight down the middle |
+3 | Put loaf tin in the oven, with approx 100ml of water in the bottom oven tray (for steam), close the oven door | 5 minutes
+4 | Turn oven down to 190 degrees celcius | 25-30 minutes (until the top is dark brown)
+5 | Turn off oven, tip loaf onto a cooling rack | 30 minutes to cool
+6 | Enjoy with lashings of Lurpak butter 🤤 | 
