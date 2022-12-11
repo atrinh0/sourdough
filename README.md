@@ -37,7 +37,7 @@ Bread type | Amount
 --|--
 All white | 400g strong white flour
 Half half | 200g wholemeal flour + 200g strong white flour
-Just right | 100g country grain flow + 300g strong white flour
+Just right | 100g country grain flour + 300g strong white flour
 
 ## Method (making the dough)
 
