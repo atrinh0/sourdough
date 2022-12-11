@@ -18,6 +18,8 @@ Sourdough recipe - The boy who bakes | https://www.youtube.com/watch?v=NBcIMj3gf
 
 ## Starter (_Swampy_)
 
+<img src="starter.png" width="540">
+
 100% hydration, equal quantities of:
 - Existing starter
 - Rye flour
@@ -44,7 +46,7 @@ Just right | 100g country grain flour + 300g strong white flour
 
 Step | Task | Duration until next step
 --|--|--
-1 | Remove starter from the fridge (40g) add 40g rye flour and 40ml water, mix well and keep at room temperature out of the sun | Wait until volume has doubled (2-6 hours)
+1 | Remove starter from the fridge (40g) add 40g rye flour and 40ml water, mix well and keep at room temperature out of the sun. (_Protip: Use rubber band to indicate the original volume, see above image_) | Wait until volume has doubled (2-6 hours)
 2 | Spoon 80g of risen starter into a large mixing bowl, put remaining 40g starter back into the fridge | 
 3 | Add 300ml water into the same bowl, mix well | 
 4 | Add 400g flour (see above for types), and 8g of table salt, mix until no dry parts left, cover with lid | Wait 30 minutes
