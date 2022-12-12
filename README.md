@@ -36,11 +36,11 @@ Table salt | 8g
 
 #### 400g Flour variations
 
-Bread type | Amount
---|--
-All white | 400g strong white flour
-Half half | 200g wholemeal flour + 200g strong white flour
-Just right | 100g country grain flour + 300g strong white flour
+Bread type | Amount | Remarks
+--|--|--
+Just right | 100g country grain flour + 300g strong white flour | Delicious combo
+Half half | 200g wholemeal flour + 200g strong white flour | Healthy?
+All white | 400g strong white flour | Basic staple, not a lot of depth in flavour
 
 ## Method (making the dough)
 
